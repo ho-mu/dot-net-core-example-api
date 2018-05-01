@@ -17,6 +17,7 @@ namespace MovieApi
             BuildWebHost(args).Run();
         }
 
+// object that hosts the app and begins listening for HTTP requests
         public static IWebHost BuildWebHost(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>()

@@ -1,0 +1,10 @@
+/Users/h_murphy/Desktop/github/dot-net-core-example-api/MyFirstUnitTests/bin/Debug/netcoreapp2.0/MyFirstUnitTests.deps.json
+/Users/h_murphy/Desktop/github/dot-net-core-example-api/MyFirstUnitTests/bin/Debug/netcoreapp2.0/MyFirstUnitTests.runtimeconfig.json
+/Users/h_murphy/Desktop/github/dot-net-core-example-api/MyFirstUnitTests/bin/Debug/netcoreapp2.0/MyFirstUnitTests.runtimeconfig.dev.json
+/Users/h_murphy/Desktop/github/dot-net-core-example-api/MyFirstUnitTests/bin/Debug/netcoreapp2.0/MyFirstUnitTests.dll
+/Users/h_murphy/Desktop/github/dot-net-core-example-api/MyFirstUnitTests/bin/Debug/netcoreapp2.0/MyFirstUnitTests.pdb
+/Users/h_murphy/Desktop/github/dot-net-core-example-api/MyFirstUnitTests/obj/Debug/netcoreapp2.0/MyFirstUnitTests.csproj.CoreCompileInputs.cache
+/Users/h_murphy/Desktop/github/dot-net-core-example-api/MyFirstUnitTests/obj/Debug/netcoreapp2.0/MyFirstUnitTests.AssemblyInfoInputs.cache
+/Users/h_murphy/Desktop/github/dot-net-core-example-api/MyFirstUnitTests/obj/Debug/netcoreapp2.0/MyFirstUnitTests.AssemblyInfo.cs
+/Users/h_murphy/Desktop/github/dot-net-core-example-api/MyFirstUnitTests/obj/Debug/netcoreapp2.0/MyFirstUnitTests.dll
+/Users/h_murphy/Desktop/github/dot-net-core-example-api/MyFirstUnitTests/obj/Debug/netcoreapp2.0/MyFirstUnitTests.pdb

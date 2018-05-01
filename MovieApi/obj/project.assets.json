@@ -12543,11 +12543,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/h_murphy/Desktop/github/MovieApi/MovieApi.csproj",
+      "projectUniqueName": "/Users/h_murphy/Desktop/github/dot-net-core-example-api/MovieApi/MovieApi.csproj",
       "projectName": "MovieApi",
-      "projectPath": "/Users/h_murphy/Desktop/github/MovieApi/MovieApi.csproj",
+      "projectPath": "/Users/h_murphy/Desktop/github/dot-net-core-example-api/MovieApi/MovieApi.csproj",
       "packagesPath": "/Users/h_murphy/.nuget/packages/",
-      "outputPath": "/Users/h_murphy/Desktop/github/MovieApi/obj/",
+      "outputPath": "/Users/h_murphy/Desktop/github/dot-net-core-example-api/MovieApi/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
